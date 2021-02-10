@@ -26,7 +26,7 @@ e acrescente
 o arquivo final deve ficar similar a:
 
     # localhost name resolution is handled within DNS itself.
-	127.0.0.1   localhost
+	127.0.0.1	localhost
 	127.0.0.1	tads.local
 
 após a edição salve e feche o arquivo.
